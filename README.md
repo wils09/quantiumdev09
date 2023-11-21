@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![marcado 1](/img/giphy.gif)
 
 ```javascript
 const Cris = {
