@@ -3,7 +3,7 @@
 ```javascript
 const Cris = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java],
   
 }
 ```
