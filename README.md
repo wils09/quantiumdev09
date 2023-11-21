@@ -1,11 +1,12 @@
 ### Hi there 👋
+
+
 '''js
 const Cris = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+ 
 '''
 <!--
 **QuantiumDev09/quantiumdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
