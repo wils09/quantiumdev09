@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```javascript
-const thai = {
+const Cris = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   
