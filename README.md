@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-
-'''js
-const Cris = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  
- 
-'''
 <!--
 **QuantiumDev09/quantiumdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
